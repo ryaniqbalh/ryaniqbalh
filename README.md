@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdkNGZhaW1qaTd3YTh0M2ZjbjM1aHNma3dteDN3NWx4Mm53dDk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2SvePlXEmRak8/giphy.gif" width="100%" />
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdkNGZhaW1qaTd3YTh0M2ZjbjM1aHNma3dteDN3NWx4Mm53dDk3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2SvePlXEmRak8/giphy.gif" width="100%" /> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpzOWEzMmhtMHU5bmZiZTUyNmVwOHc4cXdjZ2MybHdmb3NxcjhvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="100%" />
+  
 </p>
 
 <h1 align="center">Hi! I'm Ryan Iqbal 👋</h1>
