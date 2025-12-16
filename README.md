@@ -29,7 +29,6 @@
 ---
 
 ## 🤝 Connect With Me
-
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
